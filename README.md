@@ -1,4 +1,4 @@
-# public_repo
+# Databricksサンプルノートブック
 
 Databricksのサンプルノートブックを格納しています。
 
