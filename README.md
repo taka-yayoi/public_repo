@@ -7,3 +7,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * matplotlib: Databricksにおけるmatplotlibの日本語フォント対応のサンプルノートブックです。
 * spark_qs_python: PythonにおけるSparkクイックスタートのノートブックです。
 * spark_dataframe_qs: Spark Dataframeクイックスタートのノートブックです。
+* spark_ml_tutorial: Spark MLチュートリアルのノートブックです。
