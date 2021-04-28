@@ -10,3 +10,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * spark_ml_tutorial: Spark MLチュートリアルのノートブックです。
 * pandas_to_Koalas: Koalasチュートリアルのノートブックです。
 * spark intro part1: Spark Introdcution Part1のノートブックです。
+* JEDAI_1st: JEDAI第一回でデモしたノートブックです。
