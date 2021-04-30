@@ -5,7 +5,7 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * DBFS: Databricksのファイルシステム、Databricks File System(DBFS)を説明したサンプルノートブックです。
   * [Databricksにおけるファイルシステム \- Qiita](https://qiita.com/taka_yayoi/items/e16c7272a7feb5ec9a92)
 * LibraryManagement: DatabricksにおけるPythonライブラリの種類を説明したサンプルノートブックです。
-*  [DatabricksにおけるPythonライブラリ管理 \- Qiita](https://qiita.com/taka_yayoi/items/d3a46efdc1ad01a581d0)
+  * [DatabricksにおけるPythonライブラリ管理 \- Qiita](https://qiita.com/taka_yayoi/items/d3a46efdc1ad01a581d0)
 * matplotlib: Databricksにおけるmatplotlibの日本語フォント対応のサンプルノートブックです。
   * [Databricksにおけるmatplotlibの日本語対応 \- Qiita](https://qiita.com/taka_yayoi/items/f35a9c288966dc7077bb)
 * spark_qs_python: PythonにおけるSparkクイックスタートのノートブックです。
