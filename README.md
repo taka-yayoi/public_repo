@@ -20,3 +20,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksにおけるApache Sparkアプリケーション開発のご紹介 \- Qiita](https://qiita.com/taka_yayoi/items/f3eb1578a97bc2b68c37)
 * JEDAI_1st: JEDAI第一回でデモしたノートブックです。
   * [JEDAI 第一回: Databricksでデータ分析のAtoZをご紹介 \- connpass](https://jedai.connpass.com/event/209905/)
+* datadog: DatadogによるDatabricksクラスター監視のサンプルノートブックです。
+  * [DatadogによるDatabricksクラスター監視 \- Qiita](https://qiita.com/taka_yayoi/items/722c7ee42d245406c9ca)
