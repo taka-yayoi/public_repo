@@ -22,3 +22,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [JEDAI 第一回: Databricksでデータ分析のAtoZをご紹介 \- connpass](https://jedai.connpass.com/event/209905/)
 * datadog: DatadogによるDatabricksクラスター監視のサンプルノートブックです。
   * [DatadogによるDatabricksクラスター監視 \- Qiita](https://qiita.com/taka_yayoi/items/722c7ee42d245406c9ca)
+* synapse_integration: DatabricksとSynapseの連携のサンプルノートブックです。
+  * [DatabricksとAzure Synapse Analyticsの連携 \(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/0693337a8fe8f1cbc65a) 
