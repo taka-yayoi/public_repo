@@ -1,6 +1,6 @@
 # Databricksサンプルノートブック
 
-Databricksのサンプルノートブックを格納しています。基本的にHTML形式とipynb形式で保存してあります。
+Databricksのサンプルノートブックを格納しています。基本的にHTML形式とipynb形式で保存してあります。ipynb形式の方はgithubで直接内容を参照できます。
 
 * DBFS: Databricksのファイルシステム、Databricks File System(DBFS)を説明したサンプルノートブックです。
   * [Databricksにおけるファイルシステム \- Qiita](https://qiita.com/taka_yayoi/items/e16c7272a7feb5ec9a92)
