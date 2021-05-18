@@ -24,3 +24,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatadogによるDatabricksクラスター監視 \- Qiita](https://qiita.com/taka_yayoi/items/722c7ee42d245406c9ca)
 * synapse_integration: DatabricksとSynapseの連携のサンプルノートブックです。
   * [DatabricksとAzure Synapse Analyticsの連携 \(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/0693337a8fe8f1cbc65a) 
+* digital_pathology: WSIから癌細胞を検知するサンプルノートブックです。
+  * [Databricksにおける機械学習による病理画像分析の自動化 \- Qiita](https://qiita.com/taka_yayoi/items/3929677d4e0c9dffaef4) 
