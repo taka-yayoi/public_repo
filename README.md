@@ -28,3 +28,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksにおける機械学習による病理画像分析の自動化 \- Qiita](https://qiita.com/taka_yayoi/items/3929677d4e0c9dffaef4) 
 * ray_mlflow: RayとMLflow連携のサンプルノートブックです。
   * [RayとMLflow: 分散機械学習アプリケーションの本格運用 \- Qiita](https://qiita.com/taka_yayoi/items/078a5a0a74b18acdb03b)
+* covid-19: COVID-19データセット分析のサンプルノートブックです。
+  * [DatabricksにおけるCOVID\-19データセットの活用: データコミュニティで何ができるのか \- Qiita](https://qiita.com/taka_yayoi/items/3d62c4dbdc0e39e4772c)
