@@ -32,3 +32,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksにおけるCOVID\-19データセットの活用: データコミュニティで何ができるのか \- Qiita](https://qiita.com/taka_yayoi/items/3d62c4dbdc0e39e4772c)
 * delta_live_tables: Delta Live Tablesのサンプルノートブックです。
   * [Delta Live Tablesクイックスタート \- Qiita](https://qiita.com/taka_yayoi/items/7fe8ed2c2f95fd53cc3d)
+* genomics_pipeline: ゲノミクスパイプラインのサンプルノートブックです。
+  * [Databricks Delta Lakeによる大規模ゲノミクスパイプラインの簡略化 \- Qiita](https://qiita.com/taka_yayoi/items/2ae740ab884c26e5906e)
