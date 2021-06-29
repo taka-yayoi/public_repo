@@ -34,3 +34,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Delta Live Tablesクイックスタート \- Qiita](https://qiita.com/taka_yayoi/items/7fe8ed2c2f95fd53cc3d)
 * genomics_pipeline: ゲノミクスパイプラインのサンプルノートブックです。
   * [Databricks Delta Lakeによる大規模ゲノミクスパイプラインの簡略化 \- Qiita](https://qiita.com/taka_yayoi/items/2ae740ab884c26e5906e)
+* Feature_Store: Databricks Feature Storeのサンプルノートブックです。
+  * [Databricks Feature Store \- Qiita](https://qiita.com/taka_yayoi/items/88ddec323537febf7784)
