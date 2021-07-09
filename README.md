@@ -37,6 +37,6 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * Feature_Store: Databricks Feature Storeのサンプルノートブックです。
   * [Databricks Feature Store \- Qiita](https://qiita.com/taka_yayoi/items/88ddec323537febf7784)
 * comparison_w_jupyter: Jupyter notebookと比較したDatabricksの良いところを説明したノートブックです。
-　　　　* [Databricksの良いところ\(Jupyter notebookとの比較\) \- Qiita](https://qiita.com/taka_yayoi/items/d5ea3dede05a180091b2)
+  * [Databricksの良いところ\(Jupyter notebookとの比較\) \- Qiita](https://qiita.com/taka_yayoi/items/d5ea3dede05a180091b2)
 * ecg_deeplearning: 心電図データにディープラーニングを適用し、心臓疾患を予測します。
-　　　　* [Delta Lake、Keras、MLflowを用いた機械学習による医療機器データのモニタリング \- Qiita](https://qiita.com/taka_yayoi/items/65e463a3eab84d4e2ce7)
+  * [Delta Lake、Keras、MLflowを用いた機械学習による医療機器データのモニタリング \- Qiita](https://qiita.com/taka_yayoi/items/65e463a3eab84d4e2ce7)
