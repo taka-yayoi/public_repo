@@ -42,3 +42,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Delta Lake、Keras、MLflowを用いた機械学習による医療機器データのモニタリング \- Qiita](https://qiita.com/taka_yayoi/items/65e463a3eab84d4e2ce7)
 * PyMC3_covid: PyMC3を用いてCOVID-19の基本再生産数を推定するノートブックです。
   * [PyMC3を用いたCOVID\-19の時系列ダイナミクスのベイジアンモデリング \- Qiita](https://qiita.com/taka_yayoi/items/4a0316853687957f6526)
+* glow: Glowによる大規模遺伝子データの並列処理を行うノートブックです。
+  * [Glow V1\.0\.0 \- 次世代ゲノムワイド分析 \- Qiita](https://qiita.com/taka_yayoi/items/d218797152fa480b6673)
