@@ -44,3 +44,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [PyMC3を用いたCOVID\-19の時系列ダイナミクスのベイジアンモデリング \- Qiita](https://qiita.com/taka_yayoi/items/4a0316853687957f6526)
 * glow: Glowによる大規模遺伝子データの並列処理を行うノートブックです。
   * [Glow V1\.0\.0 \- 次世代ゲノムワイド分析 \- Qiita](https://qiita.com/taka_yayoi/items/d218797152fa480b6673)
+* reproducible_ml: MLflow、Delta Lakeによる機械学習の再現性確保をデモするノートブックです。
+  * [全てを再現可能に：機械学習とデータレイクハウスの出会い \- Qiita](https://qiita.com/taka_yayoi/items/cb1fafc96e7337d1fa58)
