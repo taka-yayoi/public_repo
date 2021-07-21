@@ -46,3 +46,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Glow V1\.0\.0 \- 次世代ゲノムワイド分析 \- Qiita](https://qiita.com/taka_yayoi/items/d218797152fa480b6673)
 * reproducible_ml: MLflow、Delta Lakeによる機械学習の再現性確保をデモするノートブックです。
   * [全てを再現可能に：機械学習とデータレイクハウスの出会い \- Qiita](https://qiita.com/taka_yayoi/items/cb1fafc96e7337d1fa58)
+* delta_live_tables_quickstart: Delta Live Tablesクイックスタートノートブックです。処理結果のデータ、ログを確認できるようになっています。
+  * [Delta Live Tablesクイックスタート \- Qiita](https://qiita.com/taka_yayoi/items/7fe8ed2c2f95fd53cc3d)
