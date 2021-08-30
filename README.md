@@ -52,3 +52,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksにおける機械学習モデル構築のエンドツーエンドのサンプル \- Qiita](https://qiita.com/taka_yayoi/items/f48ccd35e0452611d81b)
 * image_data_source: 画像データソースのサンプルです。
   * [Databricksにおける画像の取り扱い \- Qiita](https://qiita.com/taka_yayoi/items/8d4b1b61699d68a34e58)
+* petastorm_aws_tensorflow: PetastormのTensorflowコンバーターのサンプルです。
+  * [Apache SparkによるTensorFlow、PyTorchへのデータ変換の簡素化 \- Qiita](https://qiita.com/taka_yayoi/items/94207008e2b1bcfd9c38)  
