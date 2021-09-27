@@ -1,6 +1,6 @@
 # Databricksサンプルノートブック
 
-Databricksのサンプルノートブックを格納しています。基本的にHTML形式とipynb形式で保存してあります。ipynb形式の方はgithubで直接内容を参照できます。
+Databricksのサンプルノートブックを格納しています。基本的にpyファイルを格納しているので、DatabricksのReposで連携することができます。
 
 * DBFS: Databricksのファイルシステム、Databricks File System(DBFS)を説明したサンプルノートブックです。
   * [Databricksにおけるファイルシステム \- Qiita](https://qiita.com/taka_yayoi/items/e16c7272a7feb5ec9a92)
@@ -56,4 +56,3 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Apache SparkによるTensorFlow、PyTorchへのデータ変換の簡素化 \- Qiita](https://qiita.com/taka_yayoi/items/94207008e2b1bcfd9c38)  
 * mlflow_automl_ensemble: MLflow、AutoMLを用いたアンサンブルモデル構築のサンプルです。
   * [MLflow、AutoMLによるモデルアンサンブルの管理 \- Qiita](https://qiita.com/taka_yayoi/items/eec12fd4226b9c63f0c5)
-  * 
