@@ -1,6 +1,6 @@
 # Databricksサンプルノートブック
 
-Databricksのサンプルノートブックを格納しています。基本的にpyファイルを格納しているので、DatabricksのReposで連携することができます。
+Databricksのサンプルノートブックを格納しています。基本的にpyファイルを格納しているので、Databricksの[Repos](https://qiita.com/taka_yayoi/items/b89f199ff0d3a4c16140)で連携することができます。
 
 * DBFS: Databricksのファイルシステム、Databricks File System(DBFS)を説明したサンプルノートブックです。
   * [Databricksにおけるファイルシステム \- Qiita](https://qiita.com/taka_yayoi/items/e16c7272a7feb5ec9a92)
