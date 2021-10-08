@@ -1,4 +1,4 @@
-%md ### Notebook Discovery
+### Notebook Discovery
 
 [Databricksノートブックのカタログ化、高速検索の実現 \- Qiita](https://qiita.com/taka_yayoi/items/00f5a996246d9bc6f386)
 
