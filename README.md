@@ -59,4 +59,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * DNS_Analytics: DNS分析による脅威検知のサンプルノートブックです。
   * [DNS分析を通じたサイバー犯罪の検知 \- Qiita](https://qiita.com/taka_yayoi/items/3320a1b26c65385baf75)
 * suspicious_behavior_detection: 動画における不審な行動を検知するサンプルノートブックです。
-　　　　* [Databricks機械学習ランタイムを用いた動画における不審な振る舞いの検知 \- Qiita](https://qiita.com/taka_yayoi/items/0dff172a79040ec5cfb6)
+  * [Databricks機械学習ランタイムを用いた動画における不審な振る舞いの検知 \- Qiita](https://qiita.com/taka_yayoi/items/0dff172a79040ec5cfb6)
