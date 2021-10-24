@@ -62,3 +62,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks機械学習ランタイムを用いた動画における不審な振る舞いの検知 \- Qiita](https://qiita.com/taka_yayoi/items/0dff172a79040ec5cfb6)
 * ml_quickstart: Databricksにおける機械学習のクイックスタートのノートブックです。
   * [Databricksで機械学習を始めてみる \- Qiita](https://qiita.com/taka_yayoi/items/22f45cc82f6b5b1170ad)
+* Conccurent Notebooks: ノートブックの並列実行のサンプルノートブックです。
+  * [Databricksにおけるノートブックワークフロー \- Qiita](https://qiita.com/taka_yayoi/items/118fbc0ad8fa5471bc88)
