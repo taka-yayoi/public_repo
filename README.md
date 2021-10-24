@@ -60,3 +60,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DNS分析を通じたサイバー犯罪の検知 \- Qiita](https://qiita.com/taka_yayoi/items/3320a1b26c65385baf75)
 * suspicious_behavior_detection: 動画における不審な行動を検知するサンプルノートブックです。
   * [Databricks機械学習ランタイムを用いた動画における不審な振る舞いの検知 \- Qiita](https://qiita.com/taka_yayoi/items/0dff172a79040ec5cfb6)
+* ml_quickstart: Databricksにおける機械学習のクイックスタートのノートブックです。
+  * [Databricksで機械学習を始めてみる \- Qiita](https://qiita.com/taka_yayoi/items/22f45cc82f6b5b1170ad)
