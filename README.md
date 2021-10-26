@@ -64,3 +64,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksで機械学習を始めてみる \- Qiita](https://qiita.com/taka_yayoi/items/22f45cc82f6b5b1170ad)
 * Conccurent Notebooks: ノートブックの並列実行のサンプルノートブックです。
   * [Databricksにおけるノートブックワークフロー \- Qiita](https://qiita.com/taka_yayoi/items/118fbc0ad8fa5471bc88)
+* spark_pandas_api: SparkのPandas APIのサンプルノートブックです。
+  * [SparkにおけるPandas API \- Qiita](https://qiita.com/taka_yayoi/items/db8e1ea52afe5c282c94)
