@@ -66,3 +66,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksにおけるノートブックワークフロー \- Qiita](https://qiita.com/taka_yayoi/items/118fbc0ad8fa5471bc88)
 * spark_pandas_api: SparkのPandas APIのサンプルノートブックです。
   * [SparkにおけるPandas API \- Qiita](https://qiita.com/taka_yayoi/items/db8e1ea52afe5c282c94)
+* AutoML_forecast: AutoML時系列予測のサンプルノートブックです。
+  * [Databricks AutoMLで時系列データ予測をサポートしました \- Qiita](https://qiita.com/taka_yayoi/items/7d42bab3017774737ca9)
