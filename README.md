@@ -72,3 +72,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksにおいてPytorchとHuggingfaceを用いたGPU高速化による感情分析 \- Qiita](https://qiita.com/taka_yayoi/items/84e446540277918b1a9c) 
 * [zip\_file](https://github.com/taka-yayoi/public_repo/tree/main/zip_file): Databricksにおけるzipファイルの取り扱いを説明したノートブックです。
   * [Databricksにおけるzipファイルの取り扱い \- Qiita](https://qiita.com/taka_yayoi/items/0197d5c985089255f16a)
+* [AQE\_demo](https://github.com/taka-yayoi/public_repo/tree/main/AQE_demo): Adaptive Query Executionのデモノートブックです。
+  * [Adaptive Query Execution : Spark SQLの実行スピードの高速化 \- Qiita](https://qiita.com/taka_yayoi/items/f01d1bbbaeda2857d5f7)
