@@ -70,3 +70,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks AutoMLで時系列データ予測をサポートしました \- Qiita](https://qiita.com/taka_yayoi/items/7d42bab3017774737ca9)
 * [GPU\_huggingface\_production](https://github.com/taka-yayoi/public_repo/tree/main/GPU_huggingface_production): GPUデバイスにおいてHuggingfaceを用いた感情分析のサンプルノートブックです。
   * [DatabricksにおいてPytorchとHuggingfaceを用いたGPU高速化による感情分析 \- Qiita](https://qiita.com/taka_yayoi/items/84e446540277918b1a9c) 
+* [zip\_file](https://github.com/taka-yayoi/public_repo/tree/main/zip_file): Databricksにおけるzipファイルの取り扱いを説明したノートブックです。
+  * [Databricksにおけるzipファイルの取り扱い \- Qiita](https://qiita.com/taka_yayoi/items/0197d5c985089255f16a)
