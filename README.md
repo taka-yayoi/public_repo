@@ -46,7 +46,8 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Glow V1\.0\.0 \- 次世代ゲノムワイド分析 \- Qiita](https://qiita.com/taka_yayoi/items/d218797152fa480b6673)
 * [reproducible\_ml](https://github.com/taka-yayoi/public_repo/tree/main/reproducible_ml): MLflow、Delta Lakeによる機械学習の再現性確保をデモするノートブックです。
   * [全てを再現可能に：機械学習とデータレイクハウスの出会い \- Qiita](https://qiita.com/taka_yayoi/items/cb1fafc96e7337d1fa58)
-* [delta\_live\_tables\_quickstart](https://github.com/taka-yayoi/public_repo/tree/main/delta_live_tables_quickstart): Delta Live Tablesクイックスタートノートブックです。処理結果のデータ、ログを確認できるようになっています。既存Deltaテーブルを起点としたパイプラインのサンプル(20210727_delta_live_tables_for_existing_table.dbc)も含まれています。
+* [delta\_live\_tables\_quickstart](https://github.com/taka-yayoi/public_repo/tree/main/delta_live_tables_quickstart): Delta Live Tablesクイックスタートノートブックです。処理結果のデータ、ログを確認できるようになっています。
+  * 既存Deltaテーブルを起点としたパイプラインのサンプル(20210727_delta_live_tables_for_existing_table.dbc)も含まれています。
   * [Delta Live Tablesクイックスタート \- Qiita](https://qiita.com/taka_yayoi/items/7fe8ed2c2f95fd53cc3d)
 * [mlflow\_end\_to\_end](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_end_to_end): MLflowによる機械学習モデル管理のエンドツーエンドのサンプルです。
   * [Databricksにおける機械学習モデル構築のエンドツーエンドのサンプル \- Qiita](https://qiita.com/taka_yayoi/items/f48ccd35e0452611d81b)
@@ -76,3 +77,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Adaptive Query Execution : Spark SQLの実行スピードの高速化 \- Qiita](https://qiita.com/taka_yayoi/items/f01d1bbbaeda2857d5f7)
 * [jedai\_5th](https://github.com/taka-yayoi/public_repo/tree/main/jedai_5th)
   * Databricksユーザー会第5回で使用したDNS脅威検知のサンプルノートブックです。 
+  * [DNS分析を通じたサイバー犯罪の検知 \- Qiita](https://qiita.com/taka_yayoi/items/3320a1b26c65385baf75)
