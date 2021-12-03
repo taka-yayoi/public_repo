@@ -80,3 +80,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DNS分析を通じたサイバー犯罪の検知 \- Qiita](https://qiita.com/taka_yayoi/items/3320a1b26c65385baf75)
 * [hyperopt_best_practice](https://github.com/taka-yayoi/public_repo/tree/main/hyperopt_best_practice): Hyperoptベストプラクティスのノートブックです。対象データのサイズに応じたガイドを説明しています。
   * [ベストプラクティス：DatabricksにおけるHyperoptを用いたハイパーパラメーターチューニング \- Qiita](https://qiita.com/taka_yayoi/items/db49a1bf2e7c96c6f6f4)
+* [oss\_delta\_sharing](https://github.com/taka-yayoi/public_repo/tree/main/oss_delta_sharing): OSS版Delta Sharingのデモノートブックです。
+  * [DatabricksでOSS版Delta Sharingを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/d6b6a5240aeef6e31992) 
