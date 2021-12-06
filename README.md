@@ -82,3 +82,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [ベストプラクティス：DatabricksにおけるHyperoptを用いたハイパーパラメーターチューニング \- Qiita](https://qiita.com/taka_yayoi/items/db49a1bf2e7c96c6f6f4)
 * [oss\_delta\_sharing](https://github.com/taka-yayoi/public_repo/tree/main/oss_delta_sharing): OSS版Delta Sharingのデモノートブックです。
   * [DatabricksでOSS版Delta Sharingを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/d6b6a5240aeef6e31992) 
+* [pandas\_udf](https://github.com/taka-yayoi/public_repo/tree/main/pandas_udf): pandas UDFのデモノートブックです。
+  * [DatabricksにおけるSpark pandasユーザー定義関数 \- Qiita](https://qiita.com/taka_yayoi/items/b65197128ee698d87910)
