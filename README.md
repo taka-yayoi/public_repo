@@ -84,3 +84,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksでOSS版Delta Sharingを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/d6b6a5240aeef6e31992) 
 * [pandas\_udf](https://github.com/taka-yayoi/public_repo/tree/main/pandas_udf): pandas UDFのデモノートブックです。
   * [DatabricksにおけるSpark pandasユーザー定義関数 \- Qiita](https://qiita.com/taka_yayoi/items/b65197128ee698d87910)
+* [mecab\_sample](https://github.com/taka-yayoi/public_repo/tree/main/mecab_sample): MeCabのサンプルノートブックです。
+  * [SparkでMeCabを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/3b5836853eac8ac248c1) 
