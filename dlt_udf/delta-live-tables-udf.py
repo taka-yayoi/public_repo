@@ -6,9 +6,6 @@
 # MAGIC 
 # MAGIC - [Delta Live Tablesクックブック \- Qiita](https://qiita.com/taka_yayoi/items/184d872392ac4fb7fb38#sql%E3%81%A7python-udf%E3%82%92%E4%BD%BF%E3%81%86)
 # MAGIC - [Delta Live Tablesユーザーガイド \- Qiita](https://qiita.com/taka_yayoi/items/6726ad1edfa92d5cd0e9#%E4%B8%8D%E6%AD%A3%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E4%BF%9D%E6%8C%81)
-# MAGIC 
-# MAGIC > **注意**
-# MAGIC エクスペクテーションのUDFにはLIVEテーブルのプリミティブなカラムを指定してください。前段のLIVEテーブル上でUDFで計算されたカラムを指定するとエラーになります。
 
 # COMMAND ----------
 
