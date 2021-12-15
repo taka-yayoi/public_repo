@@ -86,3 +86,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksにおけるSpark pandasユーザー定義関数 \- Qiita](https://qiita.com/taka_yayoi/items/b65197128ee698d87910)
 * [mecab\_sample](https://github.com/taka-yayoi/public_repo/tree/main/mecab_sample): MeCabのサンプルノートブックです。
   * [SparkでMeCabを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/3b5836853eac8ac248c1) 
+* [dlt\_udf](https://github.com/taka-yayoi/public_repo/tree/main/dlt_udf): Delta Live TablesにおけるUDFの活用方法を説明したノートブックです。
+  * [Delta Live TablesでUDFを活用する \- Qiita](https://qiita.com/taka_yayoi/items/123347aa8323b4a90730) 　
