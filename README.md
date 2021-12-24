@@ -88,4 +88,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [SparkでMeCabを動かしてみる \- Qiita](https://qiita.com/taka_yayoi/items/3b5836853eac8ac248c1) 
 * [dlt\_udf](https://github.com/taka-yayoi/public_repo/tree/main/dlt_udf): Delta Live TablesにおけるUDFの活用方法を説明したノートブックです。
   * [Delta Live TablesでUDFを活用する \- Qiita](https://qiita.com/taka_yayoi/items/123347aa8323b4a90730) 　
-* [autoloader\_parquet](https://github.com/taka-yayoi/public_repo/tree/main/autoloader_parquet): Parquetファイルに対するAuto Loaderのサンプルです。CSV向けのものも入っています。
+* [autoloader\_parquet](https://github.com/taka-yayoi/public_repo/tree/main/autoloader_parquet): Parquetファイルに対するAuto Loaderのサンプルです。CSV向けのものも入っています。 
+  * [DatabricksのAuto Loaderを活用してParquetをDeltaに書き込む \- Qiita](https://qiita.com/taka_yayoi/items/36954e7b7d9cdf587c68)
