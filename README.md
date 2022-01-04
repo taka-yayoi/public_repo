@@ -92,3 +92,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksのAuto Loaderを活用してParquetをDeltaに書き込む \- Qiita](https://qiita.com/taka_yayoi/items/36954e7b7d9cdf587c68)
 * [html\_d3\_svg](https://github.com/taka-yayoi/public_repo/tree/main/html_d3_svg): ノートブックでHTML/SVG/d3を活用するサンプルです。
   * [DatabricksノートブックにおけるHTML、D3、SVGの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f70bcdb8d717344b72b8)
+* [notebook\_dashboard](https://github.com/taka-yayoi/public_repo/tree/main/notebook_dashboard): ノートブックでダッシュボードを作成するサンプルです。htmlファイルをインポートすることで、保持されているダッシュボード、グラフの設定も読み込むことができます。pyファイルではダッシュボード、グラフの設定は保持されていません。
+  * [Databricksのダッシュボード \- Qiita](https://qiita.com/taka_yayoi/items/4b200d08ab3d0863d40a)
