@@ -96,3 +96,6 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksのダッシュボード \- Qiita](https://qiita.com/taka_yayoi/items/4b200d08ab3d0863d40a)
 * [ML\_IoT\_device](https://github.com/taka-yayoi/public_repo/tree/main/ML_IoT_device): IoTデバイスのデータに対して機械学習モデルを適用するサンプルノートブックです。
   * [IoTデバイスにおける機械学習モデルの管理およびスケーラビリティの確保 \- Qiita](https://qiita.com/taka_yayoi/items/803fff44d2b560c7e85f)
+* [model\_sharing](https://github.com/taka-yayoi/public_repo/tree/main/model_sharing): 複数ワークスペースで機械学習を共有する手順を説明したサンプルノートブックです。
+  * [Databricksワークスペース間における機械学習モデルの共有\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/6799efd91feb814143b4)
+* [GPU\_huggingface\_production](https://github.com/taka-yayoi/public_repo/tree/main/GPU_huggingface_production): GPUデバイスにおいてHuggingfaceを用いた感情分析のサンプルノートブックです。
