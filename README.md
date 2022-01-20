@@ -94,3 +94,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksノートブックにおけるHTML、D3、SVGの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f70bcdb8d717344b72b8)
 * [notebook\_dashboard](https://github.com/taka-yayoi/public_repo/tree/main/notebook_dashboard): ノートブックでダッシュボードを作成するサンプルです。htmlファイルをインポートすることで、保持されているダッシュボード、グラフの設定も読み込むことができます。pyファイルではダッシュボード、グラフの設定は保持されていません。
   * [Databricksのダッシュボード \- Qiita](https://qiita.com/taka_yayoi/items/4b200d08ab3d0863d40a)
+* [ML\_IoT\_device](https://github.com/taka-yayoi/public_repo/tree/main/ML_IoT_device): IoTデバイスのデータに対して機械学習モデルを適用するサンプルノートブックです。
+  * [IoTデバイスにおける機械学習モデルの管理およびスケーラビリティの確保 \- Qiita](https://qiita.com/taka_yayoi/items/803fff44d2b560c7e85f)
