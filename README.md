@@ -98,3 +98,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [IoTデバイスにおける機械学習モデルの管理およびスケーラビリティの確保 \- Qiita](https://qiita.com/taka_yayoi/items/803fff44d2b560c7e85f)
 * [model\_sharing](https://github.com/taka-yayoi/public_repo/tree/main/model_sharing): 複数ワークスペースで機械学習を共有する手順を説明したサンプルノートブックです。
   * [Databricksワークスペース間における機械学習モデルの共有\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/6799efd91feb814143b4)
+* [opencv](https://github.com/taka-yayoi/public_repo/tree/main/opencv): OpenCVのサンプルノートブックです。
+  * [DatabricksにおけるOpenCVの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f31703f1c770a15304dd) 
