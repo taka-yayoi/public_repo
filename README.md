@@ -102,3 +102,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksにおけるOpenCVの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f31703f1c770a15304dd) 
 * [delta\_optimize](https://github.com/taka-yayoi/public_repo/tree/main/delta_optimize): Deltaの最適化のサンプルノートブックです。
   * [Databricksにおけるデータファイル管理の最適化 \- Qiita](https://qiita.com/taka_yayoi/items/a82b0b8fbdc74e6f9f01)
+* [quickstart\_ds](https://github.com/taka-yayoi/public_repo/tree/main/quickstart_ds): DS向けDatabricksクイックスタートのノートブックです。
+  * [データサイエンティストとしてDatabricksを使い始める \- Qiita](https://qiita.com/taka_yayoi/items/f7efb6c597b425a05fe2)
