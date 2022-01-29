@@ -360,7 +360,7 @@ def create_tf_serving_json(data):
 
 def score_model(dataset):
   # モデルのREST APIエンドポイント(モデルサービングの画面で確認できます)
-  url = f'https://e2-demo-west.cloud.databricks.com/model/{registered_model_name}/{model_version}/invocations'
+  url = f'https://<Databricksホスト名>/model/{registered_model_name}/{model_version}/invocations'
   #print(url)
   
   headers = {'Authorization': f'Bearer {os.environ.get("DATABRICKS_TOKEN")}'}
