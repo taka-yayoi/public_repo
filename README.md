@@ -108,3 +108,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [MLflowによるPyTorch MNIST分類器のトラッキング・サービング \- Qiita](https://qiita.com/taka_yayoi/items/08a4dbea3c943a5ae2ea)
 * [mlflow\_quickstart\_training\_logging](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_training_logging): MLflowを用いたトレーニングのロギングを説明するサンプルです。
   * [scikit\-learnモデルのトレーニング、scikit\-learnフォーマットでの保存 \- Qiita](https://qiita.com/taka_yayoi/items/093f68cb0983cf683647)
+* [mlflow\_quickstart\_sagemaker\_deployment](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_sagemaker_deployment): SageMakerにモデルをデプロイするサンプルノートブックです。
+  * [SageMakerへのscikit\-learnモデルのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/79f024874075ea9e1cd3)
