@@ -106,3 +106,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [データサイエンティストとしてDatabricksを使い始める \- Qiita](https://qiita.com/taka_yayoi/items/f7efb6c597b425a05fe2)
 * [pytorch\_serving](https://github.com/taka-yayoi/public_repo/tree/main/pytorch_serving): PyTorchの画像分類器をMLflowでトラッキング、サービングするサンプルです。
   * [MLflowによるPyTorch MNIST分類器のトラッキング・サービング \- Qiita](https://qiita.com/taka_yayoi/items/08a4dbea3c943a5ae2ea)
+* [mlflow\_quickstart\_training\_logging](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_training_logging): MLflowを用いたトレーニングのロギングを説明するサンプルです。
+  * [scikit\-learnモデルのトレーニング、scikit\-learnフォーマットでの保存 \- Qiita](https://qiita.com/taka_yayoi/items/093f68cb0983cf683647)
