@@ -98,7 +98,6 @@ model_uri = "runs:/" + run_id1 + "/model"
 
 # COMMAND ----------
 
-# 以下のECR Dockerイメージに対するURLを<ECR-URL>で置き換えてください。
 # ECR URLは以下のフォーマットである必要があります: {account_id}.dkr.ecr.{region}.amazonaws.com/{repo_name}:{tag}
 image_ecr_url = "<AWS account id>.dkr.ecr.ap-northeast-1.amazonaws.com/mlflow-pyfunc:1.23.1"
 
