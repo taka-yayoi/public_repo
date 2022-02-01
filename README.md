@@ -110,3 +110,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [scikit\-learnモデルのトレーニング、scikit\-learnフォーマットでの保存 \- Qiita](https://qiita.com/taka_yayoi/items/093f68cb0983cf683647)
 * [mlflow\_quickstart\_sagemaker\_deployment](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_sagemaker_deployment): SageMakerにモデルをデプロイするサンプルノートブックです。
   * [SageMakerへのscikit\-learnモデルのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/79f024874075ea9e1cd3)
+* [jobs\_walkthrough](https://github.com/taka-yayoi/public_repo/tree/main/jobs_walkthrough): Databricks Jobsをウォークスルーするノートブックです。
+  * [Databricks Jobsを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/10194fd3b44e9575de26)
