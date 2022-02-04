@@ -112,3 +112,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [SageMakerへのscikit\-learnモデルのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/79f024874075ea9e1cd3)
 * [jobs\_walkthrough](https://github.com/taka-yayoi/public_repo/tree/main/jobs_walkthrough): Databricks Jobsをウォークスルーするノートブックです。
   * [Databricks Jobsを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/10194fd3b44e9575de26)
+* [custom\_model\_sagemaker](https://github.com/taka-yayoi/public_repo/tree/main/custom_model_sagemaker): カスタムモデルをSageMakerエンドポイントにデプロイするノートブックです。
+  * [Databricksにおけるカスタムモデルのトレーニング、SageMakerエンドポイントへのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/3b2c86b2334cda557d4c)
