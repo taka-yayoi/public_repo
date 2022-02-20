@@ -114,3 +114,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks Jobsを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/10194fd3b44e9575de26)
 * [custom\_model\_sagemaker](https://github.com/taka-yayoi/public_repo/tree/main/custom_model_sagemaker): カスタムモデルをSageMakerエンドポイントにデプロイするノートブックです。
   * [Databricksにおけるカスタムモデルのトレーニング、SageMakerエンドポイントへのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/3b2c86b2334cda557d4c)
+* [BigARTM](https://github.com/taka-yayoi/public_repo/tree/main/BigARTM): トピックモデリングライブラリBigARTMのサンプルノートブックです。
+  * [LDAの先へ：BigARTMによる最先端のトピックモデル \- Qiita](https://qiita.com/taka_yayoi/items/622bedee5231ebadb8d8) 
