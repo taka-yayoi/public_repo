@@ -1,6 +1,8 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # LDAの先へ：BigARTMによる最先端のトピックモデル
+# MAGIC 
+# MAGIC [LDAの先へ：BigARTMによる最先端のトピックモデル \- Qiita](https://qiita.com/taka_yayoi/items/622bedee5231ebadb8d8)
 
 # COMMAND ----------
 
