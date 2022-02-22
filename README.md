@@ -116,3 +116,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksにおけるカスタムモデルのトレーニング、SageMakerエンドポイントへのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/3b2c86b2334cda557d4c)
 * [BigARTM](https://github.com/taka-yayoi/public_repo/tree/main/BigARTM): トピックモデリングライブラリBigARTMのサンプルノートブックです。
   * [LDAの先へ：BigARTMによる最先端のトピックモデル \- Qiita](https://qiita.com/taka_yayoi/items/622bedee5231ebadb8d8) 
+* [tensorflow\_keras\_quickstart](https://github.com/taka-yayoi/public_repo/tree/main/tensorflow_keras_quickstart): TensorFlow Kerasクイックスタートノートブックです。
+  * [DatabricksでTensorFlow Kerasを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/0f28fd854cbe2f5728e4)
