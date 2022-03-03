@@ -118,3 +118,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [LDAの先へ：BigARTMによる最先端のトピックモデル \- Qiita](https://qiita.com/taka_yayoi/items/622bedee5231ebadb8d8) 
 * [tensorflow\_keras\_quickstart](https://github.com/taka-yayoi/public_repo/tree/main/tensorflow_keras_quickstart): TensorFlow Kerasクイックスタートノートブックです。
   * [DatabricksでTensorFlow Kerasを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/0f28fd854cbe2f5728e4)
+* [image\_similarity](https://github.com/taka-yayoi/public_repo/tree/main/image_similarity): 類似画像に基づくレコメンデーションのサンプルノートブックです。
+  * [eコマース向け類似画像レコメンデーションシステムの構築 \- Qiita](https://qiita.com/taka_yayoi/items/173d5228c1d08c5130ef) 
