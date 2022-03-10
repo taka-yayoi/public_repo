@@ -120,3 +120,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksでTensorFlow Kerasを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/0f28fd854cbe2f5728e4)
 * [image\_similarity](https://github.com/taka-yayoi/public_repo/tree/main/image_similarity): 類似画像に基づくレコメンデーションのサンプルノートブックです。
   * [eコマース向け類似画像レコメンデーションシステムの構築 \- Qiita](https://qiita.com/taka_yayoi/items/173d5228c1d08c5130ef) 
+* [DLT\_eventlog](https://github.com/taka-yayoi/public_repo/tree/main/DLT_eventlog): Delta Live Tablesのイベントログに対するクエリーのサンプルノートブックです。
+  * [Delta Live Tablesのイベントログ \- Qiita](https://qiita.com/taka_yayoi/items/5ae5824cfab30caf9795)
