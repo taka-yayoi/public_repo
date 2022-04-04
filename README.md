@@ -122,3 +122,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [eコマース向け類似画像レコメンデーションシステムの構築 \- Qiita](https://qiita.com/taka_yayoi/items/173d5228c1d08c5130ef) 
 * [DLT\_eventlog](https://github.com/taka-yayoi/public_repo/tree/main/DLT_eventlog): Delta Live Tablesのイベントログに対するクエリーのサンプルノートブックです。
   * [Delta Live Tablesのイベントログ \- Qiita](https://qiita.com/taka_yayoi/items/5ae5824cfab30caf9795)
+* [python\-chart\-graph](https://github.com/taka-yayoi/public_repo/tree/main/python-chart-graph): Pythonにおけるチャート、グラフのサンプルノートブックです。
