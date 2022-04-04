@@ -123,3 +123,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * [DLT\_eventlog](https://github.com/taka-yayoi/public_repo/tree/main/DLT_eventlog): Delta Live Tablesのイベントログに対するクエリーのサンプルノートブックです。
   * [Delta Live Tablesのイベントログ \- Qiita](https://qiita.com/taka_yayoi/items/5ae5824cfab30caf9795)
 * [python\-chart\-graph](https://github.com/taka-yayoi/public_repo/tree/main/python-chart-graph): Pythonにおけるチャート、グラフのサンプルノートブックです。
+  * [DatabricksでPythonを用いたチャート&グラフの表示 \- Qiita](https://qiita.com/taka_yayoi/items/0e5f8097cd6aba4e8349)
