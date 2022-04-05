@@ -124,3 +124,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Delta Live Tablesのイベントログ \- Qiita](https://qiita.com/taka_yayoi/items/5ae5824cfab30caf9795)
 * [python\-chart\-graph](https://github.com/taka-yayoi/public_repo/tree/main/python-chart-graph): Pythonにおけるチャート、グラフのサンプルノートブックです。
   * [DatabricksでPythonを用いたチャート&グラフの表示 \- Qiita](https://qiita.com/taka_yayoi/items/0e5f8097cd6aba4e8349)
+* [labelbox](https://github.com/taka-yayoi/public_repo/tree/main/labelbox): Labelbox連携のサンプルノートブックです。
+  * [DatabricksとLabelboxの連携\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/64245fe438443f3742c4)
