@@ -112,31 +112,32 @@ pos_result.createOrReplaceTempView("pos_result")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## NER(Named Entity Extraction)
+# MAGIC ## 固有表現抽出：NER(Named Entity Extraction)
 # MAGIC 
-# MAGIC [Named Entity Recognition for Japanese \(GloVe 840B 300d\)\- Spark NLP Model](https://nlp.johnsnowlabs.com/2021/01/03/ner_ud_gsd_glove_840B_300d_ja.html)
+# MAGIC - [Named Entity Recognition for Japanese \(GloVe 840B 300d\)\- Spark NLP Model](https://nlp.johnsnowlabs.com/2021/01/03/ner_ud_gsd_glove_840B_300d_ja.html)
+# MAGIC - [Named Entity Recognition for Japanese \(FastText 300d\)\- Spark NLP Model](https://nlp.johnsnowlabs.com/2021/09/09/ner_ud_gsd_cc_300d_ja.html)
 
 # COMMAND ----------
 
-document_assembler = DocumentAssembler() \
-    .setInputCol('text') \
-    .setOutputCol('document')
+documentAssembler = DocumentAssembler() \
+    .setInputCol("text") \
+    .setOutputCol("document")
 
-sentence_detector = SentenceDetector() \
-    .setInputCols('document') \
-    .setOutputCol('sentence')
+sentence = SentenceDetector() \
+    .setInputCols(["document"]) \
+    .setOutputCol("sentence")
 
-word_segmenter = WordSegmenterModel.pretrained("wordseg_gsd_ud", "ja")\
-        .setInputCols(["sentence"])\
-        .setOutputCol("token")
+word_segmenter = WordSegmenterModel.pretrained("wordseg_gsd_ud", "ja") \
+    .setInputCols(["sentence"]) \
+    .setOutputCol("token")
 
-embeddings = WordEmbeddingsModel.pretrained("glove_840B_300", "xx")\
-          .setInputCols("document", "token") \
-          .setOutputCol("embeddings")
-
-ner = NerDLModel.pretrained("ner_ud_gsd_glove_840B_300d", "ja") \
-        .setInputCols(["document", "token", "embeddings"]) \
-        .setOutputCol("ner")
+embeddings = WordEmbeddingsModel.pretrained("japanese_cc_300d", "ja") \
+    .setInputCols(["sentence", "token"]) \
+    .setOutputCol("embeddings")
+    
+nerTagger = NerDLModel.pretrained("ner_ud_gsd_cc_300d", "ja") \
+    .setInputCols(["sentence", "token", "embeddings"]) \
+    .setOutputCol("ner")
 
 ner_converter = NerConverter() \
     .setInputCols(['sentence', 'token', 'ner']) \
@@ -144,7 +145,14 @@ ner_converter = NerConverter() \
 
 # COMMAND ----------
 
-pipeline = Pipeline(stages=[document_assembler, sentence_detector, word_segmenter, embeddings, ner, ner_converter]) 
+pipeline = Pipeline().setStages([
+    documentAssembler,
+    sentence,
+    word_segmenter,
+    embeddings,
+    nerTagger,
+    ner_converter
+])
 
 # COMMAND ----------
 
