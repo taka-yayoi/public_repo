@@ -94,3 +94,35 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksノートブックにおけるHTML、D3、SVGの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f70bcdb8d717344b72b8)
 * [notebook\_dashboard](https://github.com/taka-yayoi/public_repo/tree/main/notebook_dashboard): ノートブックでダッシュボードを作成するサンプルです。htmlファイルをインポートすることで、保持されているダッシュボード、グラフの設定も読み込むことができます。pyファイルではダッシュボード、グラフの設定は保持されていません。
   * [Databricksのダッシュボード \- Qiita](https://qiita.com/taka_yayoi/items/4b200d08ab3d0863d40a)
+* [ML\_IoT\_device](https://github.com/taka-yayoi/public_repo/tree/main/ML_IoT_device): IoTデバイスのデータに対して機械学習モデルを適用するサンプルノートブックです。
+  * [IoTデバイスにおける機械学習モデルの管理およびスケーラビリティの確保 \- Qiita](https://qiita.com/taka_yayoi/items/803fff44d2b560c7e85f)
+* [model\_sharing](https://github.com/taka-yayoi/public_repo/tree/main/model_sharing): 複数ワークスペースで機械学習を共有する手順を説明したサンプルノートブックです。
+  * [Databricksワークスペース間における機械学習モデルの共有\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/6799efd91feb814143b4)
+* [opencv](https://github.com/taka-yayoi/public_repo/tree/main/opencv): OpenCVのサンプルノートブックです。
+  * [DatabricksにおけるOpenCVの活用 \- Qiita](https://qiita.com/taka_yayoi/items/f31703f1c770a15304dd) 
+* [delta\_optimize](https://github.com/taka-yayoi/public_repo/tree/main/delta_optimize): Deltaの最適化のサンプルノートブックです。
+  * [Databricksにおけるデータファイル管理の最適化 \- Qiita](https://qiita.com/taka_yayoi/items/a82b0b8fbdc74e6f9f01)
+* [quickstart\_ds](https://github.com/taka-yayoi/public_repo/tree/main/quickstart_ds): DS向けDatabricksクイックスタートのノートブックです。
+  * [データサイエンティストとしてDatabricksを使い始める \- Qiita](https://qiita.com/taka_yayoi/items/f7efb6c597b425a05fe2)
+* [pytorch\_serving](https://github.com/taka-yayoi/public_repo/tree/main/pytorch_serving): PyTorchの画像分類器をMLflowでトラッキング、サービングするサンプルです。
+  * [MLflowによるPyTorch MNIST分類器のトラッキング・サービング \- Qiita](https://qiita.com/taka_yayoi/items/08a4dbea3c943a5ae2ea)
+* [mlflow\_quickstart\_training\_logging](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_training_logging): MLflowを用いたトレーニングのロギングを説明するサンプルです。
+  * [scikit\-learnモデルのトレーニング、scikit\-learnフォーマットでの保存 \- Qiita](https://qiita.com/taka_yayoi/items/093f68cb0983cf683647)
+* [mlflow\_quickstart\_sagemaker\_deployment](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_quickstart_sagemaker_deployment): SageMakerにモデルをデプロイするサンプルノートブックです。
+  * [SageMakerへのscikit\-learnモデルのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/79f024874075ea9e1cd3)
+* [jobs\_walkthrough](https://github.com/taka-yayoi/public_repo/tree/main/jobs_walkthrough): Databricks Jobsをウォークスルーするノートブックです。
+  * [Databricks Jobsを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/10194fd3b44e9575de26)
+* [custom\_model\_sagemaker](https://github.com/taka-yayoi/public_repo/tree/main/custom_model_sagemaker): カスタムモデルをSageMakerエンドポイントにデプロイするノートブックです。
+  * [Databricksにおけるカスタムモデルのトレーニング、SageMakerエンドポイントへのデプロイメント \- Qiita](https://qiita.com/taka_yayoi/items/3b2c86b2334cda557d4c)
+* [BigARTM](https://github.com/taka-yayoi/public_repo/tree/main/BigARTM): トピックモデリングライブラリBigARTMのサンプルノートブックです。
+  * [LDAの先へ：BigARTMによる最先端のトピックモデル \- Qiita](https://qiita.com/taka_yayoi/items/622bedee5231ebadb8d8) 
+* [tensorflow\_keras\_quickstart](https://github.com/taka-yayoi/public_repo/tree/main/tensorflow_keras_quickstart): TensorFlow Kerasクイックスタートノートブックです。
+  * [DatabricksでTensorFlow Kerasを使ってみる \- Qiita](https://qiita.com/taka_yayoi/items/0f28fd854cbe2f5728e4)
+* [image\_similarity](https://github.com/taka-yayoi/public_repo/tree/main/image_similarity): 類似画像に基づくレコメンデーションのサンプルノートブックです。
+  * [eコマース向け類似画像レコメンデーションシステムの構築 \- Qiita](https://qiita.com/taka_yayoi/items/173d5228c1d08c5130ef) 
+* [DLT\_eventlog](https://github.com/taka-yayoi/public_repo/tree/main/DLT_eventlog): Delta Live Tablesのイベントログに対するクエリーのサンプルノートブックです。
+  * [Delta Live Tablesのイベントログ \- Qiita](https://qiita.com/taka_yayoi/items/5ae5824cfab30caf9795)
+* [python\-chart\-graph](https://github.com/taka-yayoi/public_repo/tree/main/python-chart-graph): Pythonにおけるチャート、グラフのサンプルノートブックです。
+  * [DatabricksでPythonを用いたチャート&グラフの表示 \- Qiita](https://qiita.com/taka_yayoi/items/0e5f8097cd6aba4e8349)
+* [labelbox](https://github.com/taka-yayoi/public_repo/tree/main/labelbox): Labelbox連携のサンプルノートブックです。
+  * [DatabricksとLabelboxの連携\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/64245fe438443f3742c4)
