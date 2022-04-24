@@ -126,6 +126,6 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [DatabricksでPythonを用いたチャート&グラフの表示 \- Qiita](https://qiita.com/taka_yayoi/items/0e5f8097cd6aba4e8349)
 * [labelbox](https://github.com/taka-yayoi/public_repo/tree/main/labelbox): Labelbox連携のサンプルノートブックです。
   * [DatabricksとLabelboxの連携\(実践編\) \- Qiita](https://qiita.com/taka_yayoi/items/64245fe438443f3742c4)
-[20220421\_NLP\_webinar](https://github.com/taka-yayoi/public_repo/tree/main/20220421_NLP_webinar): NLPウェビナーで使ったノートブックです。
+* [20220421\_NLP\_webinar](https://github.com/taka-yayoi/public_repo/tree/main/20220421_NLP_webinar): NLPウェビナーで使ったノートブックです。
   * [今さら聞けないシリーズ : はじめての自然言語処理 (NLP)](https://databricks.com/p/webinar/202204-apj-ve-fundamental-series-nlp)
 * [repos\_arbitrary\_files](https://github.com/taka-yayoi/public_repo/tree/main/repos_arbitrary_files): Reposにおける任意のファイルの取り扱いを説明したノートブックです。
