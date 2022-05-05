@@ -129,3 +129,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * [20220421\_NLP\_webinar](https://github.com/taka-yayoi/public_repo/tree/main/20220421_NLP_webinar): NLPウェビナーで使ったノートブックです。
   * [今さら聞けないシリーズ : はじめての自然言語処理 (NLP)](https://databricks.com/p/webinar/202204-apj-ve-fundamental-series-nlp)
 * [repos\_arbitrary\_files](https://github.com/taka-yayoi/public_repo/tree/main/repos_arbitrary_files): Reposにおける任意のファイルの取り扱いを説明したノートブックです。
+* [MLlib\_tutorial](https://github.com/taka-yayoi/public_repo/tree/main/MLlib_tutorial): MLlibチュートリアルノートブックです。
+  * MLlibを用いた機械学習チュートリアル - Qiita https://qiita.com/taka_yayoi/items/f59aa13533e22ef54080
