@@ -5,7 +5,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC このチュートリアルはApache Spark MLlibを使い始められるように設計されています。ここでは2値分類問題を取り扱います。デモグラフィックデータに基づいて、ある個人の収入が$50,000より高い可動化を予測できるでしょうか？[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult)からのデータセット使用しており、このデータはDatabricksランタイム上で提供されています。このノートブックでは、データの前処理、機械学習パイプライン、いくつかの機械学習アルゴリズムなどMLlibで利用できる幾つかの機能をデモンストレーションします。
+# MAGIC このチュートリアルはApache Spark MLlibを使い始められるように設計されています。ここでは2値分類問題を取り扱います。デモグラフィックデータに基づいて、ある個人の収入が$50,000より高いかどうかを予測できるでしょうか？[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult)からのデータセット使用しており、このデータはDatabricksランタイム上で提供されています。このノートブックでは、データの前処理、機械学習パイプライン、いくつかの機械学習アルゴリズムなどMLlibで利用できる幾つかの機能をデモンストレーションします。
 # MAGIC 
 # MAGIC このノートブックには以下のステップが含まれています:
 # MAGIC 
