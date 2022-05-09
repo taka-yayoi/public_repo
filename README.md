@@ -131,3 +131,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * [repos\_arbitrary\_files](https://github.com/taka-yayoi/public_repo/tree/main/repos_arbitrary_files): Reposにおける任意のファイルの取り扱いを説明したノートブックです。
 * [MLlib\_tutorial](https://github.com/taka-yayoi/public_repo/tree/main/MLlib_tutorial): MLlibチュートリアルノートブックです。
   * [MLlibを用いた機械学習チュートリアル - Qiita](https://qiita.com/taka_yayoi/items/f59aa13533e22ef54080)
+* [time_series_feature_table](https://github.com/taka-yayoi/public_repo/tree/main/time_series_feature_table): Feature Storeで時系列データを取り扱うサンプルノートブックです。
+  * [Databricks Feature Storeで時系列特徴量テーブルを取り扱う \- Qiita](https://qiita.com/taka_yayoi/items/41fa14e3ec36fc1b5a6e) 
