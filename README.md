@@ -133,3 +133,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [MLlibを用いた機械学習チュートリアル - Qiita](https://qiita.com/taka_yayoi/items/f59aa13533e22ef54080)
 * [time_series_feature_table](https://github.com/taka-yayoi/public_repo/tree/main/time_series_feature_table): Feature Storeで時系列データを取り扱うサンプルノートブックです。
   * [Databricks Feature Storeで時系列特徴量テーブルを取り扱う \- Qiita](https://qiita.com/taka_yayoi/items/41fa14e3ec36fc1b5a6e) 
+* [distributed\_LDA](https://github.com/taka-yayoi/public_repo/tree/main/distributed_LDA): Spark NLPとMLLibを用いた分散LDAのサンプルです。
+  * [DatabricksでSparkNLPとMLLibを使って分散トピックモデリングをやってみる \- Qiita](https://qiita.com/taka_yayoi/items/15d384b2497631dc97bc)
