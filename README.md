@@ -135,5 +135,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks Feature Storeで時系列特徴量テーブルを取り扱う \- Qiita](https://qiita.com/taka_yayoi/items/41fa14e3ec36fc1b5a6e) 
 * [distributed\_LDA](https://github.com/taka-yayoi/public_repo/tree/main/distributed_LDA): Spark NLPとMLLibを用いた分散LDAのサンプルです。
   * [DatabricksでSparkNLPとMLLibを使って分散トピックモデリングをやってみる \- Qiita](https://qiita.com/taka_yayoi/items/15d384b2497631dc97bc)
-* [market\_basket\_analysis](https://github.com/taka-yayoi/public_repo/tree/main/market_basket_analysis)
+* [market\_basket\_analysis](https://github.com/taka-yayoi/public_repo/tree/main/market_basket_analysis): Instacartのデータを用いたマーケットバスケット分析のサンプルです。
     * [Instacartオンライン雑貨データセットを用いたマーケットバスケット分析 \- Qiita](https://qiita.com/taka_yayoi/items/06182a0dd8dfee69b7b8)
