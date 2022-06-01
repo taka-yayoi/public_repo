@@ -136,4 +136,6 @@ Databricksのサンプルノートブックを格納しています。基本的�
 * [distributed\_LDA](https://github.com/taka-yayoi/public_repo/tree/main/distributed_LDA): Spark NLPとMLLibを用いた分散LDAのサンプルです。
   * [DatabricksでSparkNLPとMLLibを使って分散トピックモデリングをやってみる \- Qiita](https://qiita.com/taka_yayoi/items/15d384b2497631dc97bc)
 * [market\_basket\_analysis](https://github.com/taka-yayoi/public_repo/tree/main/market_basket_analysis): Instacartのデータを用いたマーケットバスケット分析のサンプルです。
-    * [Instacartオンライン雑貨データセットを用いたマーケットバスケット分析 \- Qiita](https://qiita.com/taka_yayoi/items/06182a0dd8dfee69b7b8)
+  * [Instacartオンライン雑貨データセットを用いたマーケットバスケット分析 \- Qiita](https://qiita.com/taka_yayoi/items/06182a0dd8dfee69b7b8)
+* [pyspark\_observable\_api](https://github.com/taka-yayoi/public_repo/tree/main/pyspark_observable_api): PySparkにおけるObservable APIのサンプルです。
+  * [PySparkにおけるストリーミングクエリーのモニタリング方法 \- Qiita](https://qiita.com/taka_yayoi/items/185199fe176e7904a734)
