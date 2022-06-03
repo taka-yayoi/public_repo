@@ -139,3 +139,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Instacartオンライン雑貨データセットを用いたマーケットバスケット分析 \- Qiita](https://qiita.com/taka_yayoi/items/06182a0dd8dfee69b7b8)
 * [pyspark\_observable\_api](https://github.com/taka-yayoi/public_repo/tree/main/pyspark_observable_api): PySparkにおけるObservable APIのサンプルです。
   * [PySparkにおけるストリーミングクエリーのモニタリング方法 \- Qiita](https://qiita.com/taka_yayoi/items/185199fe176e7904a734)
+* [databricks\_sample\_datasets](https://github.com/taka-yayoi/public_repo/tree/main/databricks_sample_datasets): Databricksサンプルデータセットを操作するノートブックです。
+  * [Databricksのサンプルデータを操作する \- Qiita](https://qiita.com/taka_yayoi/items/52f38084a1d161d74732)
