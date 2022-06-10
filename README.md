@@ -143,3 +143,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksのサンプルデータを操作する \- Qiita](https://qiita.com/taka_yayoi/items/52f38084a1d161d74732)
 * [databricks\_datasets\_datail](https://github.com/taka-yayoi/public_repo/tree/main/databricks_datasets_datail): Databricksサンプルデータの詳細を調査するノートブックです。
   * [Databricksサンプルデータセットの説明 \- Qiita](https://qiita.com/taka_yayoi/items/3f8ccad13c6efd242be1)
+* [pyspark\_for\_beginners](https://github.com/taka-yayoi/public_repo/tree/main/pyspark_for_beginners) : PySparkの基本的な操作を説明したノートブックです。
+  * [PySparkことはじめ \- Qiita](https://qiita.com/taka_yayoi/items/a7ee6287031374efa88a)
