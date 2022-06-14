@@ -145,3 +145,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksサンプルデータセットの説明 \- Qiita](https://qiita.com/taka_yayoi/items/3f8ccad13c6efd242be1)
 * [pyspark\_for\_beginners](https://github.com/taka-yayoi/public_repo/tree/main/pyspark_for_beginners) : PySparkの基本的な操作を説明したノートブックです。
   * [PySparkことはじめ \- Qiita](https://qiita.com/taka_yayoi/items/a7ee6287031374efa88a)
+* [ce\_image\_analysis](https://github.com/taka-yayoi/public_repo/tree/main/ce_image_analysis): Community Editionで画像分析を行うサンプルノートブックです。もちろん完全版Databricksでも動作します。
+  * [Databricks Community Editionで画像データを分析してみる \- Qiita](https://qiita.com/taka_yayoi/items/1c02542125bc327282d5)
