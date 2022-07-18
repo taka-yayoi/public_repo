@@ -149,3 +149,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks Community Editionで画像データを分析してみる \- Qiita](https://qiita.com/taka_yayoi/items/1c02542125bc327282d5)
 * [hyperopt\_sparktrial](https://github.com/taka-yayoi/public_repo/tree/main/hyperopt_sparktrial): Hyperopt + SparkTrialsのサンプルノートブックです。
   * [scikit\-learnとMLflowを用いたハイパーパラメーターチューニングの並列化 \- Qiita](https://qiita.com/taka_yayoi/items/e18bed850401e28d6c7d)
+* [ipywidgets](https://github.com/taka-yayoi/public_repo/tree/main/ipywidgets): ipywidgetsのサンプルノートブックです。
+  * [Databricksでのipywidgetsの活用 \- Qiita](https://qiita.com/taka_yayoi/items/afa752b1441165cb5b18) 
