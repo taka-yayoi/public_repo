@@ -28,7 +28,7 @@
 # MAGIC 
 # MAGIC 使用するトレーニングデータセットとして、10店舗における50商品5年分の店舗・商品のユニット売り上げデータを使用します。このデータセットは過去のKaggleのコンペティションの一部として公開されており、[こちら](https://www.kaggle.com/c/demand-forecasting-kernels-only/data)からダウンロードすることができます。
 # MAGIC 
-# MAGIC ダンロードしたあとは、*train.csv.zip*ファイルを解凍し、[こちら](https://docs.databricks.com/data/databricks-file-system.html#!#user-interface)で説明されているファイルのインポートステップに従って、解凍したCSVを `/FileStore/demand_forecast/train/` にアップロードします。Databricksからデータセットにアクセスできるようになったので、モデルを準備するためにデータを探索します。
+# MAGIC ダンロードしたあとは、*train.csv.zip*ファイルを解凍し、[こちら](https://qiita.com/taka_yayoi/items/897264c486e179d72247#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)で説明されているファイルのインポートステップに従って、解凍したCSVを `/FileStore/demand_forecast/train/` にアップロードします。Databricksからデータセットにアクセスできるようになったので、モデルを準備するためにデータを探索します。
 
 # COMMAND ----------
 
