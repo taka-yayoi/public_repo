@@ -155,3 +155,4 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [資格情報パススルーを使用したADLSマウントポイントに格納されているzipファイルをDatabricksから操作する \- Qiita](https://qiita.com/taka_yayoi/items/07d772dc304bec80ed46)
 * [spark\_sfc\_fire\_call](https://github.com/taka-yayoi/public_repo/tree/main/spark_sfc_fire_call): サンフラシスコの消防署通報データをPySparkで分析するサンプルです。
   * [Sparkを用いたサンフランシスコ消防署の通報データの分析 \- Qiita](https://qiita.com/taka_yayoi/items/4ec54d7ba37c71552322)
+* [mlflow\_ce](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_ce)
