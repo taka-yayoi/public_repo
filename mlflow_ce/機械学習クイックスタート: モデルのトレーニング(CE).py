@@ -183,7 +183,7 @@ assert(np.array_equal(predictions_loaded, predictions_original))
 # MAGIC 
 # MAGIC [Hyperopt](http://hyperopt.github.io/hyperopt/)はハイパーパラメーターチューニングのためのPythonライブラリです。DatabricksにおけるHyperoptの詳細に関しては[ドキュメント](https://qiita.com/taka_yayoi/items/238ecf8b038151b84bc1)を参照ください。
 # MAGIC 
-# MAGIC 並列でハイパーパラメーターの探索、複数のモデルのトレーニングを実行するために、HyperoptとSparkTrialsを活用することができます。これにより、モデルのパフォーマンス最適化に必要な時間を短縮することができます。MLflowとらっきんぐはHyperoptとインテグレーションされているので、モデルとパラメーターを自動で記録します。
+# MAGIC 並列でハイパーパラメーターの探索、複数のモデルのトレーニングを実行するために、HyperoptとSparkTrialsを活用することができます。これにより、モデルのパフォーマンス最適化に必要な時間を短縮することができます。MLflowトラッキングはHyperoptとインテグレーションされているので、モデルとパラメーターを自動で記録します。
 # MAGIC 
 # MAGIC **注意**
 # MAGIC Community Editionのクラスターで以下を実行すると約7分かかります。速度を上げるにはクラスター構成のノード数を増やし、並列度を上げるといった対策が可能です。
