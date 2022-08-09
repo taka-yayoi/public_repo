@@ -377,7 +377,6 @@ sqm = spark.streams
 
 # COMMAND ----------
 
-
 [q.stop() for q in sqm.active]
 
 # COMMAND ----------
