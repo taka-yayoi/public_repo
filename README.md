@@ -157,3 +157,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Sparkを用いたサンフランシスコ消防署の通報データの分析 \- Qiita](https://qiita.com/taka_yayoi/items/4ec54d7ba37c71552322)
 * [mlflow\_ce](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_ce): Community Edition向けMLflowサンプルノートブックです。
   * [Databricks Community Editionを使ってDatabricksの機械学習を体験してみる \- Qiita](https://qiita.com/taka_yayoi/items/5918a0e88d9b2472578c)
+* [spark\_streamin\_end\_to\_end](https://github.com/taka-yayoi/public_repo/tree/main/spark_streamin_end_to_end): センサーデータを対象としたストリーミング処理のサンプルです。
+  * [センサーデータを用いたSparkストリーミングのアプリケーション \- Qiita](https://qiita.com/taka_yayoi/items/eb18981e57a3a93c89da)  
