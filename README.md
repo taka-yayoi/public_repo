@@ -159,3 +159,7 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricks Community Editionを使ってDatabricksの機械学習を体験してみる \- Qiita](https://qiita.com/taka_yayoi/items/5918a0e88d9b2472578c)
 * [spark\_streamin\_end\_to\_end](https://github.com/taka-yayoi/public_repo/tree/main/spark_streamin_end_to_end): センサーデータを対象としたストリーミング処理のサンプルです。
   * [センサーデータを用いたSparkストリーミングのアプリケーション \- Qiita](https://qiita.com/taka_yayoi/items/eb18981e57a3a93c89da)  
+* [dbfs\_zip\_download](https://github.com/taka-yayoi/public_repo/tree/main/dbfs_zip_download): DBFS上のファイルをzipで圧縮してダウンロードするサンプルです。
+  * [Databricksファイルシステム\(DBFS\)上のファイルを圧縮してダウンロードする](https://qiita.com/taka_yayoi/items/68b2f388ddac0e13e6e1) 
+* [ipywidgets\_advance](https://github.com/taka-yayoi/public_repo/tree/main/ipywidgets_advance): ipyleafletをメインで使用しているサンプルです。
+  * [Databricksノートブックで地図ウィジェットを活用する \- Qiita](https://qiita.com/taka_yayoi/items/bd6a32383c5074d82570)
