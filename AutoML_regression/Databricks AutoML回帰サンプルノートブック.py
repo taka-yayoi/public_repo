@@ -96,7 +96,7 @@ display(test_pdf)
 # テストデータセットの準備
 test_df = spark.createDataFrame(test_pdf)
 
-features = mlflow.pyfunc.load_model(model_uri).metadata.get_input_schema().column_names()
+#features = mlflow.pyfunc.load_model(model_uri).metadata.get_input_schema().column_names()
 predict_udf = mlflow.pyfunc.spark_udf(spark, model_uri=model_uri)
 display(test_df.withColumn("MedHouseVal_predicted", predict_udf()))
 
