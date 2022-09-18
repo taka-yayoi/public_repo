@@ -163,3 +163,5 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksファイルシステム\(DBFS\)上のファイルを圧縮してダウンロードする](https://qiita.com/taka_yayoi/items/68b2f388ddac0e13e6e1) 
 * [ipywidgets\_advance](https://github.com/taka-yayoi/public_repo/tree/main/ipywidgets_advance): ipyleafletをメインで使用しているサンプルです。
   * [Databricksノートブックで地図ウィジェットを活用する \- Qiita](https://qiita.com/taka_yayoi/items/bd6a32383c5074d82570)
+* [H3\_expressions](https://github.com/taka-yayoi/public_repo/tree/main/H3_expressions): H3エクスプレッションのサンプルノートブックです。
+  * [DatabricksのビルトインH3エクスプレッションのウォークスルー](https://qiita.com/taka_yayoi/items/0f5423a93631f3fcd749)
