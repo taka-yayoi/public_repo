@@ -165,3 +165,15 @@ Databricksのサンプルノートブックを格納しています。基本的�
   * [Databricksノートブックで地図ウィジェットを活用する \- Qiita](https://qiita.com/taka_yayoi/items/bd6a32383c5074d82570)
 * [H3\_expressions](https://github.com/taka-yayoi/public_repo/tree/main/H3_expressions): H3エクスプレッションのサンプルノートブックです。
   * [DatabricksのビルトインH3エクスプレッションのウォークスルー](https://qiita.com/taka_yayoi/items/0f5423a93631f3fcd749)
+* [OSRM](https://github.com/taka-yayoi/public_repo/tree/main/OSRM): Open Source Routing Machineのサンプルノートブックです。
+  * [ソリューションアクセラレータ：DatabricksとOSRMによるスケーラブルなルート生成 \- Qiita](https://qiita.com/taka_yayoi/items/6b064914642f022b9cc5)
+* [OSRM\_Japan](https://github.com/taka-yayoi/public_repo/tree/main/OSRM_Japan): OSRMを日本地図で試しているサンプルノートブックです。
+  * [DatabricksとOSRMを用いて日本国内の移動ルート生成を行う \- Qiita](https://qiita.com/taka_yayoi/items/852348a8e1c4bab9c8ca)
+* [mlflow\_notebook\_gallery](https://github.com/taka-yayoi/public_repo/tree/main/mlflow_notebook_gallery): MLflow logging APIのサンプルノートブックです。
+  * [MLflow Logging APIクイックスタート\(Python\) \- Qiita](https://qiita.com/taka_yayoi/items/3b19d88d89d7b052cde8)
+* [higher\_order\_function](https://github.com/taka-yayoi/public_repo/tree/main/higher_order_function): 高次関数のサンプルノートブックです。
+  * [Databricksの高次関数 \- Qiita](https://qiita.com/taka_yayoi/items/6efefabe544a25678b40)
+* [bloom\_filter\_index](https://github.com/taka-yayoi/public_repo/tree/main/bloom_filter_index): Bloom filter indexのサンプルノートブックです。
+  * [DatabricksのBloomフィルターインデックス \- Qiita](https://qiita.com/taka_yayoi/items/76c6fe647d334d9650b6)
+* [JEDA\_study\_meeting\_1st](https://github.com/taka-yayoi/public_repo/tree/main/JEDA_study_meeting_1st): JEDAI第一回勉強会で使用したノートブックです。
+  * [Databricksで「とりあえず使えるBERT」のノートブックを動かす \- Qiita](https://qiita.com/taka_yayoi/items/20d1690ea5906bc48ae9)
